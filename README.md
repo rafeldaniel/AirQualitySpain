@@ -3,7 +3,7 @@ Shiny Application to view the air quality data in Spain published by the Europea
 
 In this repo you will find the data downloaded regarding the air pollutants in Spain.
 The code of the shinny application developed to view the data.
-The application can on shiny apps at https://rafeldaniel.shinyapps.io/AirQualitySpain/
+The application is on shiny apps at https://rafeldaniel.shinyapps.io/AirQualitySpain/
 
 You can find a quick presentation about the application at https://rafeldaniel.github.io/AirQualitySpain/
 
